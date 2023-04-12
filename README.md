@@ -1,0 +1,2 @@
+# G-rsel_Programlama_Projesi_nurayozkann
+Stok_Takip_Otomastonu_nurayozkann
