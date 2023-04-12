@@ -1,2 +1,3 @@
-# G-rsel_Programlama_Projesi_nurayozkann
+# Pansiyon_Otomasyonu_nurayozkann
 Pansiyon_Otomastonu_nurayozkann
+
