@@ -5,4 +5,5 @@ Pansiyon otomasyonu artık her pansiyonda olması gereken bir teknolojik sistemd
 Pansiyon otomasyonlarının avantajları;rezervasyon işlemleri,misafir işlemleri,tesis işlemleri,,dönemsel fiyatlar ve raporlama işlemleri,kimlik bildirimi ve temassız menü özellikleri sayesinde çok kullanışlı hale gelmiştir.  
 
 Ben otomasyonumda;müşteri kayıt,mutfak ve oda işlemleri yapabileceğim.
+
 ![WhatsApp Image 2023-05-07 at 14 30 02](https://user-images.githubusercontent.com/115795410/236678795-c8555319-bf66-4de1-b098-5233ce0d6397.jpeg)
